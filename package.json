@@ -1,6 +1,6 @@
 {
   "name": "@ramestta/rama-plasma",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Plasma bridge plugin for Ramestta. It provides PlasmaClient to interact with plasma bridge.",
   "main": "dist/npm.export.js",
   "types": "dist/ts/index.d.ts",
@@ -38,10 +38,10 @@
   },
   "homepage": "https://github.com/Ramestta-Blockchain/rama-plasma#readme",
   "peerDependencies": {
-    "@ramestta/ramajs": "^1.0.0"
+    "@ramestta/ramajs": "^1.0.12"
   },
   "devDependencies": {
-    "@ramestta/ramajs": "^1.0.0",
+    "@ramestta/ramajs": "^1.0.12",
     "copy-webpack-plugin": "^6.1.1",
     "cross-env": "^7.0.3",
     "smart-banner-webpack-plugin": "^3.0.1",
